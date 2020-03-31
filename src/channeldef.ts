@@ -1121,6 +1121,7 @@ export function channelCompatibility(
     case 'angle':
     case 'theta':
     case 'radius':
+    case 'ariaLabel':
       return COMPATIBLE;
 
     case 'longitude':
