@@ -165,11 +165,8 @@
           "type": "boolean"
         },
         "ariaLabel": {
-          "description": "A string that labels the mark for accessibility.\n\nBy default, Vega-Lite will generate a description based on fields from the encoding. Set to `null` to disable default aria labels.",
-          "type": [
-            "string",
-            "null"
-          ]
+          "description": "A string that labels the mark for accessibility.",
+          "type": "string"
         },
         "ariaRole": {
           "description": "Sets the type of user interface element of the mark for accessibility.",
@@ -1752,11 +1749,8 @@
           "type": "boolean"
         },
         "ariaLabel": {
-          "description": "A string that labels the mark for accessibility.\n\nBy default, Vega-Lite will generate a description based on fields from the encoding. Set to `null` to disable default aria labels.",
-          "type": [
-            "string",
-            "null"
-          ]
+          "description": "A string that labels the mark for accessibility.",
+          "type": "string"
         },
         "ariaRole": {
           "description": "Sets the type of user interface element of the mark for accessibility.",
@@ -11481,11 +11475,8 @@
           "type": "boolean"
         },
         "ariaLabel": {
-          "description": "A string that labels the mark for accessibility.\n\nBy default, Vega-Lite will generate a description based on fields from the encoding. Set to `null` to disable default aria labels.",
-          "type": [
-            "string",
-            "null"
-          ]
+          "description": "A string that labels the mark for accessibility.",
+          "type": "string"
         },
         "ariaRole": {
           "description": "Sets the type of user interface element of the mark for accessibility.",
@@ -12236,11 +12227,8 @@
           "type": "boolean"
         },
         "ariaLabel": {
-          "description": "A string that labels the mark for accessibility.\n\nBy default, Vega-Lite will generate a description based on fields from the encoding. Set to `null` to disable default aria labels.",
-          "type": [
-            "string",
-            "null"
-          ]
+          "description": "A string that labels the mark for accessibility.",
+          "type": "string"
         },
         "ariaRole": {
           "description": "Sets the type of user interface element of the mark for accessibility.",
@@ -12626,11 +12614,8 @@
           "type": "boolean"
         },
         "ariaLabel": {
-          "description": "A string that labels the mark for accessibility.\n\nBy default, Vega-Lite will generate a description based on fields from the encoding. Set to `null` to disable default aria labels.",
-          "type": [
-            "string",
-            "null"
-          ]
+          "description": "A string that labels the mark for accessibility.",
+          "type": "string"
         },
         "ariaRole": {
           "description": "Sets the type of user interface element of the mark for accessibility.",
@@ -13644,11 +13629,8 @@
           "type": "boolean"
         },
         "ariaLabel": {
-          "description": "A string that labels the mark for accessibility.\n\nBy default, Vega-Lite will generate a description based on fields from the encoding. Set to `null` to disable default aria labels.",
-          "type": [
-            "string",
-            "null"
-          ]
+          "description": "A string that labels the mark for accessibility.",
+          "type": "string"
         },
         "ariaRole": {
           "description": "Sets the type of user interface element of the mark for accessibility.",
@@ -14979,11 +14961,8 @@
           "type": "boolean"
         },
         "ariaLabel": {
-          "description": "A string that labels the mark for accessibility.\n\nBy default, Vega-Lite will generate a description based on fields from the encoding. Set to `null` to disable default aria labels.",
-          "type": [
-            "string",
-            "null"
-          ]
+          "description": "A string that labels the mark for accessibility.",
+          "type": "string"
         },
         "ariaRole": {
           "description": "Sets the type of user interface element of the mark for accessibility.",
@@ -17207,11 +17186,8 @@
           "type": "boolean"
         },
         "ariaLabel": {
-          "description": "A string that labels the mark for accessibility.\n\nBy default, Vega-Lite will generate a description based on fields from the encoding. Set to `null` to disable default aria labels.",
-          "type": [
-            "string",
-            "null"
-          ]
+          "description": "A string that labels the mark for accessibility.",
+          "type": "string"
         },
         "ariaRole": {
           "description": "Sets the type of user interface element of the mark for accessibility.",
